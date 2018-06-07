@@ -7,23 +7,27 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		14F24A0B20AD163A00296186 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14F24A0A20AD163A00296186 /* AppDelegate.swift */; };
-		14F24A1020AD163A00296186 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 14F24A0E20AD163A00296186 /* Main.storyboard */; };
-		14F24A1220AD163A00296186 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 14F24A1120AD163A00296186 /* Assets.xcassets */; };
-		14F24A1520AD163A00296186 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 14F24A1320AD163A00296186 /* LaunchScreen.storyboard */; };
-		14F24A1D20AD1F9500296186 /* FoodFinderTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14F24A1C20AD1F9500296186 /* FoodFinderTableViewController.swift */; };
-		14F24A1F20AD200500296186 /* FoodFinderTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14F24A1E20AD200500296186 /* FoodFinderTableViewCell.swift */; };
+		0CC9B2A420C8BA6900B2E3EA /* FoodFinderTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CC9B29A20C8BA6900B2E3EA /* FoodFinderTableViewCell.swift */; };
+		0CC9B2A520C8BA6900B2E3EA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0CC9B29B20C8BA6900B2E3EA /* LaunchScreen.storyboard */; };
+		0CC9B2A620C8BA6900B2E3EA /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0CC9B29D20C8BA6900B2E3EA /* Info.plist */; };
+		0CC9B2A720C8BA6900B2E3EA /* FoodFinderTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CC9B29E20C8BA6900B2E3EA /* FoodFinderTableViewController.swift */; };
+		0CC9B2A820C8BA6900B2E3EA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CC9B29F20C8BA6900B2E3EA /* AppDelegate.swift */; };
+		0CC9B2A920C8BA6900B2E3EA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0CC9B2A020C8BA6900B2E3EA /* Main.storyboard */; };
+		0CC9B2AA20C8BA6900B2E3EA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0CC9B2A220C8BA6900B2E3EA /* Assets.xcassets */; };
+		0CC9B2AB20C8BA6900B2E3EA /* DetailViewControllor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CC9B2A320C8BA6900B2E3EA /* DetailViewControllor.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0CC9B29920C8BA6800B2E3EA /* DIT Food Finder-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "DIT Food Finder-Bridging-Header.h"; sourceTree = "<group>"; };
+		0CC9B29A20C8BA6900B2E3EA /* FoodFinderTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = FoodFinderTableViewCell.swift; path = "../../../Downloads/DIT-Food-Finder-new-update--master 3/DIT Food Finder/DIT Food Finder/FoodFinderTableViewCell.swift"; sourceTree = "<group>"; };
+		0CC9B29C20C8BA6900B2E3EA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = "../../../Downloads/DIT-Food-Finder-new-update--master 3/DIT Food Finder/DIT Food Finder/Base.lproj/LaunchScreen.storyboard"; sourceTree = "<group>"; };
+		0CC9B29D20C8BA6900B2E3EA /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = "../../../Downloads/DIT-Food-Finder-new-update--master 3/DIT Food Finder/DIT Food Finder/Info.plist"; sourceTree = "<group>"; };
+		0CC9B29E20C8BA6900B2E3EA /* FoodFinderTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = FoodFinderTableViewController.swift; path = "../../../Downloads/DIT-Food-Finder-new-update--master 3/DIT Food Finder/DIT Food Finder/FoodFinderTableViewController.swift"; sourceTree = "<group>"; };
+		0CC9B29F20C8BA6900B2E3EA /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = AppDelegate.swift; path = "../../../Downloads/DIT-Food-Finder-new-update--master 3/DIT Food Finder/DIT Food Finder/AppDelegate.swift"; sourceTree = "<group>"; };
+		0CC9B2A120C8BA6900B2E3EA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = "../../../Downloads/DIT-Food-Finder-new-update--master 3/DIT Food Finder/DIT Food Finder/Base.lproj/Main.storyboard"; sourceTree = "<group>"; };
+		0CC9B2A220C8BA6900B2E3EA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = "../../../Downloads/DIT-Food-Finder-new-update--master 3/DIT Food Finder/DIT Food Finder/Assets.xcassets"; sourceTree = "<group>"; };
+		0CC9B2A320C8BA6900B2E3EA /* DetailViewControllor.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = DetailViewControllor.swift; path = "../../../Downloads/DIT-Food-Finder-new-update--master 3/DIT Food Finder/DIT Food Finder/DetailViewControllor.swift"; sourceTree = "<group>"; };
 		14F24A0720AD163A00296186 /* DIT Food Finder.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "DIT Food Finder.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		14F24A0A20AD163A00296186 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		14F24A0F20AD163A00296186 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		14F24A1120AD163A00296186 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		14F24A1420AD163A00296186 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		14F24A1620AD163A00296186 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		14F24A1C20AD1F9500296186 /* FoodFinderTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodFinderTableViewController.swift; sourceTree = "<group>"; };
-		14F24A1E20AD200500296186 /* FoodFinderTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodFinderTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,13 +60,15 @@
 		14F24A0920AD163A00296186 /* DIT Food Finder */ = {
 			isa = PBXGroup;
 			children = (
-				14F24A1C20AD1F9500296186 /* FoodFinderTableViewController.swift */,
-				14F24A0A20AD163A00296186 /* AppDelegate.swift */,
-				14F24A0E20AD163A00296186 /* Main.storyboard */,
-				14F24A1E20AD200500296186 /* FoodFinderTableViewCell.swift */,
-				14F24A1120AD163A00296186 /* Assets.xcassets */,
-				14F24A1320AD163A00296186 /* LaunchScreen.storyboard */,
-				14F24A1620AD163A00296186 /* Info.plist */,
+				0CC9B29F20C8BA6900B2E3EA /* AppDelegate.swift */,
+				0CC9B2A220C8BA6900B2E3EA /* Assets.xcassets */,
+				0CC9B2A320C8BA6900B2E3EA /* DetailViewControllor.swift */,
+				0CC9B29A20C8BA6900B2E3EA /* FoodFinderTableViewCell.swift */,
+				0CC9B29E20C8BA6900B2E3EA /* FoodFinderTableViewController.swift */,
+				0CC9B29D20C8BA6900B2E3EA /* Info.plist */,
+				0CC9B29B20C8BA6900B2E3EA /* LaunchScreen.storyboard */,
+				0CC9B2A020C8BA6900B2E3EA /* Main.storyboard */,
+				0CC9B29920C8BA6800B2E3EA /* DIT Food Finder-Bridging-Header.h */,
 			);
 			path = "DIT Food Finder";
 			sourceTree = "<group>";
@@ -99,6 +105,7 @@
 				TargetAttributes = {
 					14F24A0620AD163A00296186 = {
 						CreatedOnToolsVersion = 9.2;
+						LastSwiftMigration = 0920;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -126,9 +133,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				14F24A1520AD163A00296186 /* LaunchScreen.storyboard in Resources */,
-				14F24A1220AD163A00296186 /* Assets.xcassets in Resources */,
-				14F24A1020AD163A00296186 /* Main.storyboard in Resources */,
+				0CC9B2A920C8BA6900B2E3EA /* Main.storyboard in Resources */,
+				0CC9B2A620C8BA6900B2E3EA /* Info.plist in Resources */,
+				0CC9B2AA20C8BA6900B2E3EA /* Assets.xcassets in Resources */,
+				0CC9B2A520C8BA6900B2E3EA /* LaunchScreen.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -139,29 +147,30 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				14F24A1F20AD200500296186 /* FoodFinderTableViewCell.swift in Sources */,
-				14F24A0B20AD163A00296186 /* AppDelegate.swift in Sources */,
-				14F24A1D20AD1F9500296186 /* FoodFinderTableViewController.swift in Sources */,
+				0CC9B2A820C8BA6900B2E3EA /* AppDelegate.swift in Sources */,
+				0CC9B2AB20C8BA6900B2E3EA /* DetailViewControllor.swift in Sources */,
+				0CC9B2A420C8BA6900B2E3EA /* FoodFinderTableViewCell.swift in Sources */,
+				0CC9B2A720C8BA6900B2E3EA /* FoodFinderTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		14F24A0E20AD163A00296186 /* Main.storyboard */ = {
+		0CC9B29B20C8BA6900B2E3EA /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				14F24A0F20AD163A00296186 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		14F24A1320AD163A00296186 /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				14F24A1420AD163A00296186 /* Base */,
+				0CC9B29C20C8BA6900B2E3EA /* Base */,
 			);
 			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		0CC9B2A020C8BA6900B2E3EA /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				0CC9B2A120C8BA6900B2E3EA /* Base */,
+			);
+			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -278,11 +287,14 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = "DIT Food Finder/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "kr.ac.ditapps.DIT-Food-Finder";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "DIT Food Finder/DIT Food Finder-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -292,11 +304,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = "DIT Food Finder/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "kr.ac.ditapps.DIT-Food-Finder";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "DIT Food Finder/DIT Food Finder-Bridging-Header.h";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
